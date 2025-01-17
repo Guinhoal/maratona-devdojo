@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="540f78df-24de-4ca9-aa94-b2e95bc8779a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maratona-Java-DevDojo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Dominio/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/AssociacaoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/EscolaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/JogadorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/JogadorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/JogadorTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Associassao/Test/LeituraDoTecaldoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Dominio/Apolice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Dominio/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Dominio/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Test/ApoliceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Test/CanetaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista2/Test/LampadaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista3/Dominio/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista3/Dominio/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista3/Test/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista3/Test/LampadaTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Test/ClienteHerancaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Atividade/Lista4/Test/PessoaHerancaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/BlocosInicializacao/Dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/BlocosInicializacao/Test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ClassesAbstratas/Dominio/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ClassesAbstratas/Dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ClassesAbstratas/Dominio/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ClassesAbstratas/Dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ClassesAbstratas/Test/FuncionarioTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Construtores/Dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Construtores/Test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Enumeracao/Dominio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Enumeracao/Dominio/TipoCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Enumeracao/Dominio/TipoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Enumeracao/Test/ClienteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Error/Test/StackOverflowTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Dominio/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Dominio/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Dominio/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Test/ExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Test/ExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Test/LoginInvalidoExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Test/SobrescritaComExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/Exceptionn/Test/TryWithResourcesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/RunTime/Test/RunTImeExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/RunTime/Test/RunTImeExceptionTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/RunTime/Test/RunTimeExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Exception/RunTime/Test/RunTimeExceptionTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Heranca/Dominio/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Heranca/Dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Heranca/Dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Heranca/Test/HerancaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Heranca/Test/HerancaTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Interface/Dominio/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Interface/Dominio/DataRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Interface/Dominio/DatabaseLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Interface/Dominio/FileLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Interface/Test/DataLoaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/Dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/Dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/Dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/Dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/Dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/IntroducaoMetodos/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestClasses/CalculadoraTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestClasses/CalculadoraTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/EstudanteTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/FuncionarioTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/PessoaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/IntoducaoClasses/TestDominio/ProfessorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/AulaArrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/AulaArrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/AulaArrays03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/AulaArraysMultidimensionais01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/AulaArraysMultidimensionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasCondicionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasCondicionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasCondicionais02Exerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasDeRepeticao01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasDeRepeticao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/EstruturasDeRepeticao03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/OlaDevDojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/TiposPrimitivosexerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Ativ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Autonomia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Codigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Comissao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Contrario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/ConvTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Cotacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Decrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Diferenca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Faixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Iguais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/MaiorouMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/NegativoOuNao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Oleo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Ordem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/PesoIdeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Relacionamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Salario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Saldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Sorteio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Troca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Introducao/exercicios/Vogais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorEstatico/Dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorEstatico/Dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorEstatico/Test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorEstatico/Test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorFinal/Dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorFinal/Dominio/Comprador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorFinal/Dominio/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/ModificadorFinal/Test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Dominio/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Dominio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Dominio/Taxavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Dominio/Televisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Dominio/Tomate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Repositorio/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Servico/CalculadoraImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Servico/RepositorioArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Servico/RepositorioBancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Servico/RepositorioMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Test/ProdutoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Test/ProdutoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Test/ProdutoTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Polimorfismo/Test/RepositorioTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/SobrecargadeMetodos/Dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/SobrecargadeMetodos/Test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Sobrescrita/Dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AcademyDevDojoJava/Sobrescrita/Test/AnimeTest01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fvbebDo2lSPOeSjpbOrXPUuKNG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AcademyDevDojoJava.BlocosInicializacao.Test.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AcademyDevDojoJava.ModificadorEstatico.Test.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AcademyDevDojoJava.Sobrescrita.Test.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimeTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ApoliceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AulaArrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CanetaTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteHerancaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataLoaderTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EscolaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasDeRepeticao01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HerancaTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogadorTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LampadaTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LampadaTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeituraDoTecaldoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaHerancaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfessorTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RepositorioTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTImeExceptionTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTImeExceptionTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTimeExceptionTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunTimeExceptionTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackOverflowTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourcesTest01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/oneDrive/OneDrive - teiacoltec.org/Programas  Correto/Java/Maratona-Java-DevDojo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programas  Correto/Java/Maratona-Java-DevDojo/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AcademyDevDojoJava.Polimorfismo.Servico" />
+      <recent name="AcademyDevDojoJava.Polimorfismo.Test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="540f78df-24de-4ca9-aa94-b2e95bc8779a" name="Changes" comment="" />
+      <created>1714684595514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714684595514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
